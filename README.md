@@ -1,6 +1,6 @@
 # MyToy: a minimal Python package
 
-TEST
+TES2T
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fperez/mytoy/HEAD?urlpath=lab)
 

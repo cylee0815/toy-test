@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fperez/mytoy/HEAD?urlpath=lab)
 
-Small change.
+Small change. more
                                                  
 This repository contains a minimal, toy Python package with a few files as illustration for students of how to lay out their code to meet minimal Python packaging requirements.
 
